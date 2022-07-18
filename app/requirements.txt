@@ -1,4 +1,0 @@
-datetime
-pytz
-pyyaml
-Adafruit_DHT
